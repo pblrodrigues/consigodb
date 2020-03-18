@@ -1,5 +1,5 @@
 {
-  "vinculos": [
+  "vinculo": [
     {"consignante":{"id":1,"nome":"DTP","cnpj":18412154000156,"nomeVinculo":"Matrícula","ativo":true},"numeroVinculo":"1","cpfCidadao":68256407042,"nomeCidadao":"João Tomé Pinto de Souza Palhares de Blá ","dataNascimentoCidadao":1584553177000,"elegivel":true,"valorBaseMargem":1000}
   ],
   "profile": {

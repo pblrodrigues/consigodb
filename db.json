@@ -11,5 +11,40 @@
   {"id":4, "cpf":98765432100, "nomeConsignado":"Maria da Silva", "cnpjConsignante":1111111111111,"nomeConsignante":"Banco Santander","cnpjConsignatario":22222222222222,"nomeConsignatario":"nomeConsignatario","numeroVinculo":"3","numeroTipoConsignacao":10,"nomeTipoConsignacao":"nomeTipoConsignacao","numeroContrato":"123 JLM","situacao":"ATIVO","origem":"INCLUIDO_PELO_CONSIGNATARIO","dataInicioContrato":1584710985121,"dataInclusaoConsignacao":1584710985121,"cnpjCorrespondente":231,"cpfCorrespondente":34423,"valorEmprestimo":50000,"valorLiberado":4000,"valorIOF":5,"valorParcela":4000,"totalDeParcelas":4,"taxaAnual":10,"taxaCetAnual":10,"dataInicioDesconto":1584710985121,"dataFimDesconto":1584710985121,"competenciaInicio":"022019","competenciaFim":"102019"},
   {"id":5, "cpf":28230242046, "nomeConsignado":"Nome Teste", "cnpjConsignante":1111111111111,"nomeConsignante":"Banco Santander","cnpjConsignatario":22222222222222,"nomeConsignatario":"nomeConsignatario","numeroVinculo":"1","numeroTipoConsignacao":10,"nomeTipoConsignacao":"nomeTipoConsignacao","numeroContrato":"456 EDF","situacao":"ATIVO","origem":"INCLUIDO_PELO_CONSIGNATARIO","dataInicioContrato":1584710985121,"dataInclusaoConsignacao":1584710985121,"cnpjCorrespondente":231,"cpfCorrespondente":34423,"valorEmprestimo":50000,"valorLiberado":4000,"valorIOF":5,"valorParcela":4000,"totalDeParcelas":4,"taxaAnual":10,"taxaCetAnual":10,"dataInicioDesconto":1584710985121,"dataFimDesconto":1584710985121,"competenciaInicio":"022019","competenciaFim":"102019"},
   {"id":6, "cpf":28230242046, "nomeConsignado":"Nome Teste", "cnpjConsignante":1111111111111,"nomeConsignante":"Banco Brasil","cnpjConsignatario":22222222222222,"nomeConsignatario":"nomeConsignatario","numeroVinculo":"1","numeroTipoConsignacao":10,"nomeTipoConsignacao":"nomeTipoConsignacao","numeroContrato":"789 EDF","situacao":"ATIVO","origem":"INCLUIDO_PELO_CONSIGNATARIO","dataInicioContrato":1584710985121,"dataInclusaoConsignacao":1584710985121,"cnpjCorrespondente":231,"cpfCorrespondente":34423,"valorEmprestimo":50000,"valorLiberado":4000,"valorIOF":5,"valorParcela":4000,"totalDeParcelas":4,"taxaAnual":10,"taxaCetAnual":10,"dataInicioDesconto":1584710985121,"dataFimDesconto":1584710985121,"competenciaInicio":"022019","competenciaFim":"102019"}
+  ],
+  "userInfo": [
+  {
+	"name": "Tiago Albuquerque Marques Pinto",
+	"cpf": 31122416814,
+	"roles": [
+	"CONSIGO.GESTAO_CONSIGNATARIOS"
+	],
+	"groups": [
+	"CONSIGO_IF_BRADESCO"
+	],
+	"consignantes": [],
+	"consignatarios": [
+	{
+	"id": 2,
+	"nome": "BANCO BRADESCO",
+	"cnpj": 19757784000125,
+	"ehInstituicaoFinanceira": true,
+	"codigoBancario": 237
+	}
+	]
+	},
+	{
+	"name": "João Tomé Pinto de Souza Palhares de Blá",
+	"cpf": 28230242046,
+	"roles": [
+	"CONSIGO.CIDADAO"
+	],
+	"groups": [],
+	"consignantes": [],
+	"consignatarios": []
+	}
+	
   ]
+	
 }
+
